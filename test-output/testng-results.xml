@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-24T10:59:59 BDT" name="Default suite" finished-at="2022-10-24T11:00:21 BDT" duration-ms="22025">
+    <groups>
+    </groups>
+    <test started-at="2022-10-24T10:59:59 BDT" name="Default test" finished-at="2022-10-24T11:00:21 BDT" duration-ms="22025">
+      <class name="locator_learning.MyFirstLocatorTest">
+        <test-method signature="myFirstTest()[pri:0, instance:locator_learning.MyFirstLocatorTest@35cabb2a]" started-at="2022-10-24T10:59:59 BDT" name="myFirstTest" finished-at="2022-10-24T11:00:21 BDT" duration-ms="21975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+      </class> <!-- locator_learning.MyFirstLocatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
